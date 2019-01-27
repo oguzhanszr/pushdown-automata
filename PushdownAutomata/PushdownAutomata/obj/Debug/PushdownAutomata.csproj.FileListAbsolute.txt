@@ -1,0 +1,6 @@
+C:\Users\Oguzhan\Documents\Bilgisayar Mühendisligi\Projeler\Pushdown Automata\PushdownAutomata\PushdownAutomata\bin\Debug\PushdownAutomata.exe.config
+C:\Users\Oguzhan\Documents\Bilgisayar Mühendisligi\Projeler\Pushdown Automata\PushdownAutomata\PushdownAutomata\bin\Debug\PushdownAutomata.exe
+C:\Users\Oguzhan\Documents\Bilgisayar Mühendisligi\Projeler\Pushdown Automata\PushdownAutomata\PushdownAutomata\bin\Debug\PushdownAutomata.pdb
+C:\Users\Oguzhan\Documents\Bilgisayar Mühendisligi\Projeler\Pushdown Automata\PushdownAutomata\PushdownAutomata\obj\Debug\PushdownAutomata.csprojResolveAssemblyReference.cache
+C:\Users\Oguzhan\Documents\Bilgisayar Mühendisligi\Projeler\Pushdown Automata\PushdownAutomata\PushdownAutomata\obj\Debug\PushdownAutomata.exe
+C:\Users\Oguzhan\Documents\Bilgisayar Mühendisligi\Projeler\Pushdown Automata\PushdownAutomata\PushdownAutomata\obj\Debug\PushdownAutomata.pdb
