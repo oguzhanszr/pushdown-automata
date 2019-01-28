@@ -1,5 +1,5 @@
 # Pushdown Automata
-## Non Deterministic PDA C# Console Application:
+## Deterministic PDA C# Console Application:
 
 Example : Defining PDA for L = {a^nb^n | n>0}
 
